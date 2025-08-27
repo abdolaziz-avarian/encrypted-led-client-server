@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Project secrets
+symmetric.key
+
+# OS/editor
+.DS_Store
+.vscode/
